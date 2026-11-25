@@ -9,7 +9,10 @@ PrintU is a campus printing management system designed to simplify the document 
 - Course: ISAPMD
 - Project Path: Path B
 - Team Size: 5 Members
-- Platform: To be determined
+- Platform: Web Application
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
 
 ### Project Objectives
 - Simplify the printing order process.
